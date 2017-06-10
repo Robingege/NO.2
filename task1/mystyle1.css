@@ -1,0 +1,26 @@
+.a
+{float:left;
+clear:left;
+border-radius:15%;
+background-color:yellow;
+margin:1.5% 1.5%;
+padding-top:30%;
+width:30%;
+}
+.b
+{float:left;
+background-color:yellow;
+border-radius:15%;
+padding-top:30%;
+margin:1.5% 1.5%;
+width:30%;
+}
+.c
+{float:left;
+clear:right;
+background-color:yellow;
+border-radius:15%;
+margin:1.5% 1.5%;
+padding-top:30%;
+width:30%;
+}
