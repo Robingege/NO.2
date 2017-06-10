@@ -1,0 +1,39 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #68cdd5;
+}
+#btn_back{
+    width: 27px;
+    display: block;
+    position: relative;
+    left: 20px;
+    top:20px;
+}
+#logo{
+    display: block;
+    margin: 100px auto 100px auto;
+}
+p{
+    color: white;
+    font-size: 0.75rem;
+    text-align: center;
+    margin-top: 10px;
+    width:70%;
+    margin:0 auto;
+    text-align: left;
+}
+#left{
+    float: left;
+    margin-left: 15%;
+    margin-top: 140px;
+}
+#right{
+    
+    float: right;
+    margin-right: 15%;
+    margin-top: 140px;
+}
